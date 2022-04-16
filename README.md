@@ -1,8 +1,8 @@
 AmazonProject
 Amazon Automation using Selenium and Python
 
-Scenario:
-1 .Log into Amazon Page   
+Scenario:     
+1. Log into Amazon Page   
 2. Search an item   
 3. Add item to cart   
 4. Check cart content     
